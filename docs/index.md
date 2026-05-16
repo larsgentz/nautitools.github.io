@@ -4,7 +4,7 @@ description: Praktische Apps für Segler und Motorbootfahrer
 layout: default
 ---
 
-<p class="section-title">Unsere Apps</p>
+<p class="section-title">Meine Apps</p>
 
 <div class="card">
   <div class="app-header">
