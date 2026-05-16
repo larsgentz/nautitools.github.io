@@ -3,6 +3,7 @@ title: Datenschutzhinweise
 layout: default
 permalink: /datenschutz/
 robots: noindex,nofollow
+main_class: prose
 ---
 
 # Datenschutzhinweise

@@ -3,6 +3,7 @@ title: Impressum
 layout: default
 permalink: /impressum/
 robots: noindex,nofollow
+main_class: prose
 ---
 
 # Impressum
