@@ -45,6 +45,13 @@
       margin: 0 auto;
     }
 
+    .header-made-with {
+      font-size: 0.75rem;
+      opacity: 0.45;
+      margin-top: 1rem;
+      letter-spacing: 0.04em;
+    }
+
     /* ── Main wrapper ── */
     .site-main {
       max-width: 860px;
@@ -282,6 +289,7 @@
 <header>
   <a class="logo" href="{{ '/' | relative_url }}">⚓ Nauti<span>tools</span></a>
   <p>Praktische Apps für Segler und Motorbootfahrer</p>
+  <p class="header-made-with">Mit ❤️ im Süden Münchens entwickelt</p>
 </header>
 
 <main class="site-main{% if page.main_class %} {{ page.main_class }}{% endif %}">
