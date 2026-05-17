@@ -166,7 +166,16 @@
       opacity: 0.4;
       pointer-events: none;
       cursor: default;
+      transition: opacity 0.15s;
     }
+
+    .store-badge-wrap.active a {
+      opacity: 1;
+      pointer-events: auto;
+      cursor: pointer;
+    }
+
+    .store-badge-wrap.active a:hover { opacity: 0.85; }
 
     .store-badge-wrap img { height: 44px; width: auto; display: block; }
 
